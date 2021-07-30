@@ -29,5 +29,18 @@ The code is kind of simple, every function is self explanatory and accompanied w
 I have used some code created by https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython/blob/master/FCPython.py
 Make sure to check them out.
 ## Some of the results
-![Main interface](match_analysis.png?raw=true "Title")
+### The match analysis interface:
+![Match interface](match_analysis.png?raw=true "Match Analysis")
 
+### Visualizing locations of dribbles
+![Dribbles](dribbles.png?raw=true "Dribbles")
+
+### Visualizing locations of shots
+![Shots](shots.png?raw=true "Shots")
+
+### Visualizing predictions of the expected goals model (gradient boosting)
+![ML result](anglevsdistance.png?raw=true "ML")
+
+
+## Contact
+Contact me for any queries or questions on my personal email: elyousfiomarr@gmail.com
